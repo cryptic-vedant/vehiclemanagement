@@ -50,11 +50,11 @@ py manage.py createsuperuser
 
 ## Screenshots
 ### Homepage
-![homepage ss](https://github.com/cryptic-vedant/vehiclemanagement/vehicle management/static/screenshots/home.png?raw=true)
+![homepage ss](https://github.com/cryptic-vedant/vehiclemanagement/tree/main/static/screenshots/home.png?raw=true)
 ### Admin
-![admin dark](https://github.com/cryptic-vedant/vehiclemanagement/vehicle management/static/screenshots/admin_dark.png?raw=true)
+![admin dark](https://github.com/cryptic-vedant/vehiclemanagement/tree/main/static/screenshots/admin_dark.png?raw=true)
 
-![admin light](https://github.com/cryptic-vedant/vehiclemanagement/vehicle management/static/screenshots/admin_light.png?raw=true)
+![admin light](https://github.com/cryptic-vedant/vehiclemanagement/tree/main/static/screenshots/admin_light.png?raw=true)
 
 ## HOW TO RUN THE PROJECT
 * Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
